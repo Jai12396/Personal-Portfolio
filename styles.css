@@ -232,3 +232,16 @@ a{
     font-weight: bold;
     margin-bottom: 0;
 }
+
+#marksTable, th, td{
+    margin: 2rem auto;
+    padding: 0.5rem;
+    border: 2px solid black;
+    color : darkred;
+    border-collapse: collapse;
+    font-weight: bold;
+}
+
+th{
+    color: #11324D;
+}
